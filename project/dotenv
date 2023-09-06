@@ -1,0 +1,2 @@
+SECRET_KEY = "django-insecure-d308yd_a6glraugk6xwp^w$+$8o%lzk#n6p866h&()b&e_t^^9"
+GOOGLE_API_KEY =
