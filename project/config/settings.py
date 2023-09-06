@@ -26,6 +26,7 @@ INSTALLED_APPS = [
     "address",
     "common",
     "core",
+    "book",
 ]
 
 MIDDLEWARE = [
